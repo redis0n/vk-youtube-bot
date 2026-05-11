@@ -1,0 +1,4 @@
+vk-api
+yt-dlp
+requests
+google-api-python-client
